@@ -1,6 +1,6 @@
 // Promised extra credit for Paul Kruse & Derek Richard in class 10/14/2020 
 
-// create food array
+// create food array.
 let food = ['Apple', 'Banana', 'Orange', 'Cherry', 'Pineapple', 'Watermelone', 'Mango']
 
 //populate listgroup with array items 
